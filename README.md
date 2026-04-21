@@ -1,6 +1,6 @@
 # RV-Sparse: Coding Challenge
 
-This repository contains a solution to the RV-Sparse coding challenge.
+This repository contains a solution to the [RV-Sparse coding challenge](https://riscv.org/job/rv-sparse-open-source-risc-v-vector-accelerated-sparse-linear-algebra-library-risc-v-mentorship/).
 
 ## Challenge
 Implement the sparse_multiply function that:
